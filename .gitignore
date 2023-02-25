@@ -1,0 +1,35 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Battleship/*
+!/Battleship/task/
+/Battleship/task/*
+!/Battleship/task/src
+
+# Project exclude paths
+/Topics/Input streams/Convert to bytes/out/
+/Topics/Input streams/Convert to bytes/out/production/classes/
+/Topics/Input streams/Count words/out/
+/Topics/Input streams/Count words/out/production/classes/
+/Topics/Throwing exceptions/How to throw an exception/out/
+/Topics/Throwing exceptions/How to throw an exception/out/production/classes/
+/Topics/Throwing exceptions/Possible declaration/out/
+/Topics/Throwing exceptions/Possible declaration/out/production/classes/
+/Topics/Throwing exceptions/Theory/out/
+/Topics/Throwing exceptions/Theory/out/production/classes/
+/Topics/Throwing exceptions/Throw an IOException/out/
+/Topics/Throwing exceptions/Throw an IOException/out/production/classes/
+/Topics/Throwing exceptions/Throwing statements/out/
+/Topics/Throwing exceptions/Throwing statements/out/production/classes/
